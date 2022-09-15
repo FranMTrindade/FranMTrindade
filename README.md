@@ -2,8 +2,7 @@
 
 📖 - Um pouco sobre mim
 
-    💻 - Trabalho atualemnte prestando suporte 
-    👨‍💻 - 7º Periodo Ciência da computação 
+    👨‍💻 - 8º Periodo Ciência da computação 
     👨‍💻 - Programação Mobile
     🍎 - Me especializando em React Native
 
