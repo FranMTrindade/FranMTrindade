@@ -2,9 +2,8 @@
 
 📖 - Um pouco sobre mim
 
-    👨‍💻 - 8º Periodo Ciência da computação 
-    👨‍💻 - Programação Mobile
-    🍎 - Me especializando em React Native
+    👨‍💻 - 8º Periodo Ciência da computação
+    🍎 - Me especializando em FrontEnd
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/francisco_amt/)
