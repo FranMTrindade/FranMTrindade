@@ -4,17 +4,23 @@
 
     👨‍💻 - Formado em Ciência da computação
     🍎 - Desenvolvedor FrontEnd
+    
+    
+Meu portifólio 👇 
+   
+[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-dusky-nine.vercel.app)
+    
+Contatos 👇 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/francisco_amt/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-trindade-82a76b180/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@progfrancisco.com)
-[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-dusky-nine.vercel.app)
+[![Wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((37)9-9902-105)
+    
+Principais conhecimentos 👇
 
-
-    ##
-
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 <img align="center" alt="ReactNative" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="React" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF"/>   
 <img align="center" alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
