@@ -23,7 +23,8 @@ Contatos 👇
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-trindade-82a76b180/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@progfrancisco.com)
 
-    ![Snake animation](https://github.com/seu-usuário-aqui/FranMTrindade/blob/output/github-contribution-grid-snake.svg)
+
+    
 Principais conhecimentos 👇
 
 <div style="display: inline_block">
