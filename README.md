@@ -5,6 +5,12 @@
     👨‍💻 - Formado em Ciência da computação
     🍎 - Desenvolvedor FrontEnd
     
+<div>
+    <a href="https://github.com/seu-usuário-aqui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranMTrindade&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranMtrindade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+    
     
 Meu portifólio 👇 
    
@@ -30,3 +36,5 @@ Principais conhecimentos 👇
 <img align="center" algt="CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" algt="SASS" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
+    
+![Snake animation](https://github.com/seu-usuário-aqui/FranMTrindade/blob/output/github-contribution-grid-snake.svg)
