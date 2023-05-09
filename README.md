@@ -3,7 +3,7 @@
 📖 - Um pouco sobre mim
 
     👨‍💻 - Formado em Ciência da computação
-    🍎 - Desenvolvedor Front-End
+    🍎 - Desenvolvedor FrontEnd
     
 <div>
     <a href="https://github.com/FranMTrindade">
