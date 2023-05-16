@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Francisco <p>
 
 📖 - Um pouco sobre mim
-
+    👨‍💻 - Desenvolvedor de software - Skalena
     👨‍💻 - Formado em Ciência da computação
     🍎 - Desenvolvedor FrontEnd
     
