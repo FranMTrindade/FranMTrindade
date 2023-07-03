@@ -5,11 +5,6 @@
     👨‍💻 - Formado em Ciência da computação 
     🍎 - Desenvolvedor FrontEnd 
     
-<div>
-    <a href="https://github.com/FranMTrindade">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranMTrindade&layout=compact&langs_count=7&theme=dracula"/>   
-</div>
-    
     
 Meu portifólio 👇 
    
