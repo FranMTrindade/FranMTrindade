@@ -2,10 +2,8 @@
 
     📖 Um pouco sobre mim 
     👨‍💻 - Formado em Ciência da computação 
-    👨‍💻 - Desenvolvedor FrontEnd 
-    👨‍💻 - Desenvolvedor FullStack - Skalena 
-    👨‍💻 - Desenvolvedor FrontEnd - Qriar
-    
+    👨‍💻 - Desenvolvedor FrontEnd Pleno - QriarLabs
+   
     
     
 Meu portifólio 👇 
